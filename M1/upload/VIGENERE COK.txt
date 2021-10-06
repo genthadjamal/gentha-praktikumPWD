@@ -1,0 +1,210 @@
+Ci = ( Pi + Ki ) MOD 26
+
+Ki : G A D A L A  W A N G A D A L A W A  N G A  D A L A W A N G A D A  L A W A N  G A D A L A 
+pi : T E K N I K  I N F O R M A T I K A  F T I  U N I V E R S I T A S  A H M A D  D A H L A N
+
+T	= (19 + 6) mod 26
+	= 25 mod 26
+	= 25 = Z
+
+E	= (4 + 0) MOD 26
+	= 4 MOD 26
+	= 4 = E
+
+K	= (10 + 3) MOD 26
+	= 13 MOD 26
+	= 13 = N
+
+N	= (13 + 0) MOD 26
+	= 13 MOD 26
+	= 13 = N
+
+I	= (8 + 11) MOD 26
+	= 19 MOD 26
+	= 19 = T
+
+K	= (10 + 0) MOD 26
+	= 10 MOD 26
+	= 10 = K
+
+I	= (8 + 22) MOD 26
+	= 30 MOD 26
+	= 4 = E
+
+N	= (13 + 0) MOD 26
+	= 13 MOD 26
+	= 13 = N
+
+F	= (5 + 13) MOD 26
+	= 18 MOD 26
+	= S
+
+O	= (14 + 6) MOD 26
+	= 20 MOD 26
+	= 20 = U
+
+R	= (17 + 0) MOD 26
+	= 17 MOD 26
+	= 17 = R
+
+M	= (12 + 3) MOD 26
+	= 15 MOD 26
+	= 15 = P
+
+A	= (0 + 0) MOD 26
+	= 0 MOD 26
+	= 0 = A
+
+T	= (19 + 11) MOD 26
+	= 30 MOD 26
+	= 4 = E
+
+I	= (8 + 0) MOD 26
+	= 8 MOD 26
+	= 8 = I
+
+K	= (10 + 22) MOD 26
+	= 32 MOD 26
+	= 6 = G
+
+A	= (0 + 0) MOD 26
+	= 0 MOD 26
+	= 0 = A
+
+F	= (5 + 13) MOD 26
+	= 18 MOD 26
+	= 18 = S
+
+T	= (19 + 6) MOD 26
+	= 25 MOD 26
+	= 25 = Z
+
+I	= (8 + 0) MOD 26
+	= 8 MOD 26
+	= 8 = I
+
+U	= (20 + 3) MOD 26
+	= 23 MOD 26
+	= 23 = X
+
+N	= (13 + 0) MOD 26
+	= 13 = N
+
+I	= (8 + 11) MOD 26
+	= 19 MOD 26
+	= 19 = T
+
+V	= (21 + 0) MOD 26
+	= 21 MOD 26
+	= 21 = V
+
+E	= (4 + 22) MOD 26
+	= 26 MOD 26
+	= 0 = A
+
+R	= (17 + 0) MOD 26
+	= 17 MOD 26
+	= 17 = R
+
+S	= (18 + 13) MOD 26
+	= 31 MOD 26
+	= 5 = F
+
+I	= (8 + 6) MOD 26
+	= 14 MOD 26
+	= 14 = O
+
+T	= (19 + 0) MOD 26
+	= 19 MOD 26
+	= 19 = T
+
+A	= (0 + 3) MOD 26
+	= 3 MOD 26
+	= 3 = D
+
+S	= (18 + 0) MOD 26
+	= 18 MOD 26
+	= 18 = S
+
+A	= (0 + 11) MOD 26
+	= 11 MOD 26
+	= 11 = L
+
+H	= (7 + 0 ) MOD 26
+	= 7 MOD 26
+	= 7 = H
+
+M	= (12 + 22) MOD 26
+	= 34 MOD 26
+	= 8 = I
+
+A	= (0 + 0) MOD 26
+	= 0 MOD 26
+	= 0 = A
+
+D	= (3 + 13) MOD 26
+	= 16 MOD 26
+	= 16 = Q
+
+D	= (3 + 6) MOD 26
+	= 9 MOD 26
+	= 9 = J
+
+A	= (0 + 0) MOD 26
+	= 0 MOD 26
+	= 0 = A
+
+H	= (7 + 3) MOD 26
+	= 10 MOD 26
+	= 10 = K
+
+L	= (11 + 0) MOD 26
+	= 11 MOD 26
+	= 11 = L
+
+A	= (0 + 11) MOD 26
+	= 11 MOD 26
+	= 11 = L
+
+N	= (13 + 0) MOD 26
+	= 13 MOD 26
+	= 13 = N
+
+Y	= (24 + 22) MOD 26
+	= 46 MOD 26
+	= 20 = U
+
+O	= (14 + 0) MOD 26
+	= 14 = O
+
+G	= (6 + 13) MOD 26
+	= 19 MOD 26
+	= 19 = T
+
+Y	= (24 + 6) MOD 26
+	= 30 MOD 26
+	= 4 = E
+
+A	= (0 + 0) MOD 26
+	= 0 MOD 26
+	= 0 = A
+
+K	= (10 + 3) MOD 26
+	= 13 MOD 26
+	= 13 = N
+
+A	= (0 + 0) MOD 26
+	= 0 MOD 26
+	= 0 = A
+
+R	= (17 + 11) MOD 26
+	= 28 MOD 26
+	= 2 = C
+
+T	= (19 + 0) MOD 26
+	= 19 MOD 26
+	= 19 = T
+
+A	= (0 + 22) MOD 26
+	= 22 MOD 26
+	= W
